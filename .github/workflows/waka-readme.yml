@@ -16,7 +16,7 @@ jobs:
 
           API_BASE_URL: ${{ secrets.WAKATIME_API_URL }}
           SHOW_TITLE: true
-          BLOCKS: -co
+          BLOCKS: oc-
           CODE_LANG: rust
           TIME_RANGE: all_time
           LANG_COUNT: 10
