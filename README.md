@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 October 2025 - To: 12 November 2025
+From: 16 October 2025 - To: 15 November 2025
 
-Total Time: 54 hrs 42 mins
+Total Time: 49 hrs 5 mins
 
-C3                 26 hrs 17 mins  ████████████░░░░░░░░░░░░░   48.07 %
-Python             9 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Nix                7 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-Unknown            2 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Java               2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Mcfunction         1 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Markdown           0 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-CSS                0 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Json               0 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-C                  0 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+C3                 24 hrs 52 mins  ████████████▓░░░░░░░░░░░░   50.66 %
+Python             9 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+Nix                4 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Unknown            2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Java               1 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Mcfunction         1 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Markdown           0 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+CSS                0 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Json               0 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Text               0 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
