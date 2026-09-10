@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 August 2026 - To: 08 September 2026
+From: 11 August 2026 - To: 10 September 2026
 
-Total Time: 45 hrs 23 mins
+Total Time: 45 hrs 42 mins
 
-Java               18 hrs 45 mins  ██████████▒░░░░░░░░░░░░░░   41.29 %
-Text               7 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Html               5 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Mcfunction         5 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Python             1 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Json               1 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Nix                1 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Unknown            1 hrs 1 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Ada                0 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-CSS                0 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Java               17 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   38.56 %
+Text               7 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Html               5 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Mcfunction         5 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+YAML               2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Json               1 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Python             1 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Unknown            1 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Ada                0 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+CSS                0 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
